@@ -5,7 +5,7 @@ Computer Science Engineering Student
 - 🔭 Here's my [portfolio]()                                                 
 - 🌱 I’m currently learning ML 
 - Engineeing @ Anna University (Bit) campus -Trichy,
-- ⚡ Fun fact: I know Japanese.
+- ⚡ Fun fact: I Know SuperMan.
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />]() <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]() <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />]()
 
